@@ -13,6 +13,7 @@
 
 #include "Union_Find.h"
 #include "A1_ Percolation.h"
+#include "fstream"
 
 
 #endif /* Header_h */
