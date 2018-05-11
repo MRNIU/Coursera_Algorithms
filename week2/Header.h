@@ -11,6 +11,7 @@
 #include "iostream"
 #include "stacks.hpp"
 #include "queues.hpp"
+#include "deques.hpp"
 
 
 // Stack
